@@ -1,1 +1,1 @@
-# useful-cloud-native-links
+# Collection of useful Cloud-Native links
